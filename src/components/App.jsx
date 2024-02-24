@@ -1,12 +1,12 @@
 
-import { MyPagesTest } from "./MyPagesTest/MyPagesTest";
+
 
 
 
 export const App = () => {
   return (
      <div>
-      React homework template
+      React homework ttemplate
       <MyPagesTest/>
     </div>
   );
