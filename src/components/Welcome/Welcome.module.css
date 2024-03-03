@@ -1,0 +1,41 @@
+
+.welcome__picture {
+    background-image: url(../Images/river.jpg);
+    width:1200px;
+    height: 800px;
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.heading {
+    height: 80px;
+    width: 100%;
+    margin-left: 25%;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.btn {
+    height:  40px;
+    width:  80px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    gap: 30px;
+
+}
+
+.btn__text {
+    text-align: center;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 900;
+    color: rgb(99, 220, 56);
+}
