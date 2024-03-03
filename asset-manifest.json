@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/travel-app/static/css/main.eb90fcfe.css",
-    "main.js": "/travel-app/static/js/main.4af6fc67.js",
+    "main.css": "/travel-app/static/css/main.007997c7.css",
+    "main.js": "/travel-app/static/js/main.297ad9ba.js",
+    "static/media/river.jpg": "/travel-app/static/media/river.7b8f381457e2f898dd74.jpg",
     "index.html": "/travel-app/index.html",
-    "main.eb90fcfe.css.map": "/travel-app/static/css/main.eb90fcfe.css.map",
-    "main.4af6fc67.js.map": "/travel-app/static/js/main.4af6fc67.js.map"
+    "main.007997c7.css.map": "/travel-app/static/css/main.007997c7.css.map",
+    "main.297ad9ba.js.map": "/travel-app/static/js/main.297ad9ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb90fcfe.css",
-    "static/js/main.4af6fc67.js"
+    "static/css/main.007997c7.css",
+    "static/js/main.297ad9ba.js"
   ]
 }
